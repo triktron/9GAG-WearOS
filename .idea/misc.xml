@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/2021/9gag/mobile/src/main/res/layout/activity_main.xml" value="1.0712209302325582" />
+        <entry key="..\:/Projects/2021/9gag/wear/src/main/res/drawable/circular_progress_bar.xml" value="3.41875" />
+        <entry key="..\:/Projects/2021/9gag/wear/src/main/res/layout/activity_main.xml" value="0.7106227106227107" />
+        <entry key="..\:/Projects/2021/9gag/wear/src/main/res/layout/list_item.xml" value="0.672972972972973" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
